@@ -1,7 +1,7 @@
 .header{
   max-width: 1200px;  /*tamanho do conteudo*/
-  margin: 0 auto;  /*colocando o conteudo ao centro sempre*/
   padding: 40px 20px;
+  margin: 0 auto;  /*colocando o conteudo ao centro sempre*/
   display: flex;
   justify-content: space-between;
   align-items: center;

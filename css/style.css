@@ -5,3 +5,6 @@
 
 /* configurações do header do site */
 @import'../css/header.css';
+
+/* configurações do main  */
+@import'../css/introducao.css';
