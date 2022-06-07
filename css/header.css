@@ -1,0 +1,24 @@
+.header{
+  max-width: 1200px;  /*tamanho do conteudo*/
+  margin: 0 auto;  /*colocando o conteudo ao centro sempre*/
+  padding: 40px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-menu{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.header-menu a {
+  font-size: 1.125rem;
+  line-height: 1.3;
+  text-decoration: none; /*coloca aqui se n n funciona o padding*/
+  padding: 10px 20px;
+  color: var(--cor1);
+  display: block;
+}

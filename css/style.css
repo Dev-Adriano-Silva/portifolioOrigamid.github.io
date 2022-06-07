@@ -1,0 +1,7 @@
+/* configuração de todos os estilos globais */
+@import'../css/global.css';
+
+@import'../css/responsive.css';
+
+/* configurações do header do site */
+@import'../css/header.css';

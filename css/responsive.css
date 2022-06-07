@@ -1,0 +1,13 @@
+/* responsive for header  */
+@media(max-width: 800px){
+  .header{
+    flex-direction: column;
+    gap: 40px;
+    padding: 20px !important;
+  }
+
+  .header a{
+    background: #f5f5f5;
+  }
+
+}
